@@ -3,7 +3,7 @@
 
 <template>
   <header>
-    <div>This is my first project vue !</div>
+    <div>This is my first project vue js !</div>
   </header>
 </template>
 
