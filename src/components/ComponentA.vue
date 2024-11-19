@@ -1,7 +1,7 @@
 <!-- ComponentA.vue -->
 <template>
   <div>
-    <h2>Component A ABBC212</h2>
+    <h2>Component A ABBC</h2>
     <button @click="incrementCount">Increase</button>
     <p>Count = {{ count }}</p>
   </div>
